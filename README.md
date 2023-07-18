@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Live Site URL]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-sass-and-vanilla-js-b08wY1VDaY)
+- Live Site URL: [Live Site URL](https://advice-generator-app-dzejkop.netlify.app/)
 
 ## My process
 
